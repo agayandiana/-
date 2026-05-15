@@ -65,13 +65,21 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="349" y="182" width="1038" height="634" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1778852547431" />
-    <state x="590" y="98" width="914" height="709" key="SettingsEditor" timestamp="1778854951477">
+    <state x="590" y="98" width="914" height="709" key="SettingsEditor" timestamp="1778859776440">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="590" y="98" width="914" height="709" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1778854951477" />
-    <state x="492" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1778855123322">
+    <state x="590" y="98" width="914" height="709" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1778859776440" />
+    <state x="361" y="128" key="Vcs.Push.Dialog.v2" timestamp="1778860019735">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="492" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1778855123322" />
+    <state x="361" y="128" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1778860019735" />
+    <state x="578" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1778859820620">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="578" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1778859820620" />
+    <state x="492" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1778859838922">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="492" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1778859838922" />
   </component>
 </project>
